@@ -6,7 +6,7 @@ A TUHC foi projetada para ser uma alternativa ao site oficial de Homestuck, que 
 # Como faço para instalar o mod da tradução?
 Basta baixar os arquivos em um arquivo zip (você pode fazer isso clicando no botão verde escrito "code"), e seguir o tutorial incluso.
 # Tenho como baixar para celular?
-Normalmente, não. Mas, como demonstrado neste [post do Reddit](https://www.reddit.com/r/homestuck/comments/1k0m1oi/community_psa_i_think_ive_finally_found_the/), há como conseguir fazer a TUHC rodar em celular. Eu escrevi uma rápida tradução do tutorial listado no link anterior para ajudar quem tiver interesse, que pode ser encontrado [aqui.](https://file.garden/W_YK-xbTQ02p2TGX/POSMECHERNOSERORA.txt) Mas já aviso que não é um processo muito fácil de se entender, mas para os bem aventurados, está aí.
+Normalmente, não. Mas, como demonstrado neste [post do Reddit](https://www.reddit.com/r/homestuck/comments/1k0m1oi/community_psa_i_think_ive_finally_found_the/), há como conseguir fazer a TUHC rodar em celular. Eu escrevi uma rápida tradução do tutorial listado no link anterior para ajudar quem tiver interesse, que pode ser encontrado [aqui.](https://file.garden/W_YK-xbTQ02p2TGX/POSMECHERNOSERORA.txt) Já aviso que não é um processo muito fácil de se entender, mas para os bem aventurados, está aí.
 # Não consegui fazer nada funcionar direito! D:
 Bom, certifique-se de que você seguiu cada passo corretamente. Tanto na hora de instalar o programa em si, quanto o mod. A TUHC requer uma pasta de uns 4 gigas pra funcionar, esses detalhes são ensinados no site oficial. Caso ainda fique alguma dúvida, não hesite em me contatar pelo [bluesky.](https://bsky.app/profile/homestuckbr.bsky.social)
 # Baixei aqui e está incompleta! Quero meu dinheiro inexistente de volta! >:(
